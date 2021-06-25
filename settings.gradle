@@ -1,0 +1,2 @@
+rootProject.name = "ResiDeepLink_Kotlin"
+include ':app'

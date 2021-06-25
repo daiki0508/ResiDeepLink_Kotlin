@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ResiDeepLink_Kotlin</string>
+    <string-array name="allow_url_list">
+        <item>hatenablog.com</item>
+    </string-array>
+</resources>
